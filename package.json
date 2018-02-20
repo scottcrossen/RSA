@@ -1,0 +1,21 @@
+{
+  "name": "HashAttack",
+  "version": "0.0.1",
+  "description": "A test for efficacy of hash attachs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "babel-node index.js"
+  },
+  "dependencies": {
+    "bignum": "^0.12.5",
+    "crypto-random": "^1.0.3",
+    "prompt": "^1.0.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-es2017": "^6.24.1"
+  }
+}
